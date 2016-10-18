@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ericball1/countdown#readme",
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "jquery": "^3.1.1"
+    "jquery": "^3.1.1",
+    "moment": "^2.15.1"
   }
 }
